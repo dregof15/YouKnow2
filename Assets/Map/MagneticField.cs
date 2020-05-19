@@ -12,6 +12,7 @@ public class MagneticField : MonoBehaviour
     float time = 0; // 게임 시작후 다음 자기장까지의 시간
     public Text MFcount; // 다음 자기장 까지의 시간 표시
     GameObject player = null;
+    int a = 20;
     
     void Start()
     {
