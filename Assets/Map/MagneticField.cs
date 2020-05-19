@@ -60,4 +60,6 @@ public class MagneticField : MonoBehaviour
             fieldstop = false;
         }
     }
+
+    //성현이 안녕
 }
