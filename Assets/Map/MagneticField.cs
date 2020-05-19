@@ -62,5 +62,5 @@ public class MagneticField : MonoBehaviour
         }
     }
 
-    //성현이 안녕
+    //성현이 안녕 이게마지막이다
 }
